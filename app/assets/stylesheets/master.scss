@@ -53,15 +53,13 @@ hr{
 
 
 h1 {
-    font-family: 'Overpass', Helvetica, sans-serif;
-    font-weight: 600;
-    letter-spacing: -1.5px;
+    font-family: 'source_sans_problack';
+    font-weight: bold
+    font-size: 48px;
 }
 
 h2{
-  font-family: 'Overpass', Helvetica, sans-serif;
-  font-weight: 600;
-  letter-spacing: -1.5px;
+  font-family: 'source_sans_problack_italic';
 }
 
-@import url('https://fonts.googleapis.com/css?family=Overpass');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
