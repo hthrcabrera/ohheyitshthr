@@ -41,6 +41,8 @@
     color: black;
     font-size: 25px;
     border-bottom: 1px solid #dfdfdf;
+    font-family: 'nobileregular', sans-serif;
+    font-weight: bold
 }
 
 header {
@@ -53,13 +55,27 @@ hr{
 
 
 h1 {
-    font-family: 'source_sans_problack';
-    font-weight: bold
-    font-size: 48px;
+   font-family: 'nobileregular', sans-serif;
+   font-weight: bold;
+   font-size: 48px;
 }
 
 h2{
-  font-family: 'source_sans_problack_italic';
+   font-family: 'nobilemedium_italic', sans-serif;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+
+.next-quote{
+    color:#f84342
+    font-family: 'nobilemedium_italic', sans-serif;
+    font-size: 20px
+}
+
+.footer-blur {
+  font-family: "Palantino Linotype", Palantino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Centruy Schoolbook L", Georgia, serif;
+  font-style:  italic
+  text-align: right;
+  font-size: 10px
+, }
